@@ -39,6 +39,7 @@ Email: Jasou21@protonmail.com
 ## Education
 - On track to graduate high school in may 2024 
 ## Awards and Certifications
-- CPR certified 
+- CPR certified
+- PCEP Entry level python certificaiton(key: 3YnA.unxR.aZ2Z)
 ## Skills
 - Red cross certified lifeguard 
